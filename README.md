@@ -8,4 +8,4 @@ The program receives:
 -number of vertexes;
 -number of connections (edges)
 -starting vertex (source)
--connections between the vertexes (in the form <vertex1> <vertex2>)
+-connections between the vertexes (in the form "vertex1" "vertex2")
