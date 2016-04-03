@@ -1,10 +1,10 @@
-Erdos Number C++
+# Erdos Number C++
 
 Course of Analysis and Synthesis of Algorithms, 3rd Year, 1st Semester
 
-Some input examples in "input.txt", "input2.txt" and "input3.txt".
+### Running 
 
-The program receives:
+##### The program receives:
 
 -number of vertexes;
 
@@ -13,3 +13,6 @@ The program receives:
 -starting vertex (source);
 
 -connections between the vertexes (in the form "vertex1" "vertex2");
+
+***
+###### Some input examples in "input.txt", "input2.txt" and "input3.txt".
